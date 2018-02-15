@@ -1,0 +1,5 @@
+*.pyc
+__pycashe__
+myvenv
+bd.sqlite3
+.DS_Store
